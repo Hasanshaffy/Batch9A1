@@ -151,3 +151,54 @@ body {
 .welcome-image img {
   height: 400px;
 }
+/* new park hotel */
+.park-section {
+  height: 500px;
+  width: 1100px;
+  margin: auto;
+}
+.park-hotel-section {
+  text-align: center;
+  margin-top: 60px;
+}
+.place,
+.date,
+.time {
+  margin-bottom: 6px;
+  color: #070211;
+
+  font-size: 32px;
+
+  font-weight: 600;
+
+  text-transform: capitalize;
+}
+.place-red,
+.date-red,
+.time-red {
+  color: #f00;
+
+  text-align: center;
+
+  font-size: 32px;
+
+  font-weight: 600;
+
+  text-transform: capitalize;
+}
+.park-button {
+  padding: 16px;
+  border-radius: 8px;
+  background: #f00;
+  border: none;
+  color: #fff;
+
+  text-align: center;
+
+  font-size: 20px;
+
+  font-weight: 700;
+
+  text-transform: uppercase;
+  margin-top: 10px;
+}
