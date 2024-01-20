@@ -153,7 +153,7 @@ body {
 }
 /* new park hotel */
 .park-section {
-  height: 500px;
+  height: 250px;
   width: 1100px;
   margin: auto;
 }
@@ -200,5 +200,95 @@ body {
   font-weight: 700;
 
   text-transform: uppercase;
+  margin-bottom: 10px;
+}
+/* new offer */
+.offer-image img {
+  width: 255px;
+  height: 255px;
+  display: flex;
+  justify-content: center;
+  margin: 18px;
+}
+.best-offer {
+  display: flex;
+
   margin-top: 10px;
+  height: 500px;
+  width: 1100px;
+  margin: auto;
+}
+.offer-title {
+  color: #f00;
+
+  font-size: 24px;
+
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.offer-header {
+  color: #070211;
+
+  font-size: 48px;
+
+  font-weight: 900;
+
+  text-transform: capitalize;
+  margin-bottom: 10px;
+}
+.offer-description {
+  width: 323px;
+}
+.new-offer {
+  margin-right: 100px;
+}
+.offer-image {
+  width: 300px;
+  height: 300px;
+  border: 5px solid red;
+  border-radius: 50%;
+  text-align: center;
+  margin-right: 100px;
+}
+.new-title {
+  color: #f00;
+
+  font-size: 48px;
+
+  font-weight: 700;
+}
+.new-description {
+  color: rgba(7, 2, 17, 0.6);
+
+  font-size: 20px;
+
+  font-weight: 400;
+}
+.happy-new-year img {
+  width: 150px;
+  height: 150px;
+}
+/* Function section */
+.function-section {
+  height: 500px;
+  width: 1100px;
+  margin: auto;
+}
+.function-name {
+  text-align: center;
+}
+.function-logo {
+  display: flex;
+  justify-content: space-around;
+  background-image: url("/B9A1-New-Year-New-Mission/resources/Rectangle\ 2.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+
+  width: 100%;
+
+  background-position: bottom;
+}
+.function-logo img {
+  height: 500px;
+  width: 500px;
 }
