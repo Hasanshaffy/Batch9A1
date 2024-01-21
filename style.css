@@ -9,7 +9,7 @@ body {
 }
 /* Banner */
 .banner {
-  background-image: url("/B9A1-New-Year-New-Mission/Banner\ Image.png");
+  background-image: url("/images/Banner\ Image.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
@@ -126,7 +126,7 @@ body {
   margin-left: 20px;
 }
 .section2 {
-  background-image: url("/B9A1-New-Year-New-Mission/Vectorrr.png");
+  background-image: url("/images/Vectorrr.png");
   background-repeat: no-repeat;
   /* background-size: cover; */
   border-radius: 16px;
@@ -279,10 +279,11 @@ body {
 }
 .function-logo {
   display: flex;
-  justify-content: space-around;
-  background-image: url("/B9A1-New-Year-New-Mission/Rectangle\ 2.png");
+  justify-content: space-between;
+  background-image: url("/images/Rectangle\ 2.png");
   position: inherit;
   width: 100%;
+  border-radius: 5px;
   background-repeat: no-repeat;
   background-size: auto;
 
@@ -335,7 +336,7 @@ body {
 }
 .middle-image {
   position: absolute;
-  margin-left: 300px;
+  margin-left: 700px;
   height: 200px;
   margin-top: 40px;
 }
