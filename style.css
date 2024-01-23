@@ -437,3 +437,65 @@ body {
   position: absolute;
   left: 774px;
 }
+/* footer */
+.footer {
+  margin-top: 1800px;
+}
+.footer-details {
+  display: flex;
+  justify-content: space-around;
+}
+.footer-images {
+  text-align: center;
+  margin-top: 30px;
+}
+.footer-images img {
+  margin-right: 15px;
+  width: 64px;
+  height: 64px;
+}
+.copyright {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.address {
+  color: #fff;
+
+  font-size: 24px;
+
+  font-weight: 500;
+}
+.contact {
+  color: #fff;
+
+  font-size: 24px;
+
+  font-weight: 500;
+}
+.website {
+  color: #fff;
+
+  font-size: 24px;
+
+  font-weight: 500;
+}
+.reserve {
+  color: #fff;
+
+  font-size: 24px;
+
+  font-weight: 500;
+}
+.unsubscribe {
+  color: #fff;
+
+  font-size: 24px;
+
+  font-weight: 500;
+}
+.footer {
+  background-color: #070211;
+  height: 400px;
+  padding: 50px;
+}
