@@ -386,3 +386,54 @@ body {
   margin-bottom: 20px;
   margin-top: 20px;
 }
+/* subscription */
+.subscription-letter img {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 40px;
+}
+.subscription-letter {
+  text-align: center;
+  margin-top: 100px;
+}
+.subscription-title {
+  color: #070211;
+
+  text-align: center;
+
+  font-size: 48px;
+
+  font-weight: 900;
+
+  text-transform: capitalize;
+  margin-bottom: 40px;
+}
+.subscriotion-description {
+  width: 800px;
+  margin: auto;
+  color: rgba(7, 2, 17, 0.6);
+
+  text-align: center;
+
+  font-size: 20px;
+
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.subscription-letter input {
+  width: 600px;
+  height: 50px;
+  border-radius: 50px;
+  background: #fff;
+  padding-left: 30px;
+  border: none;
+}
+.subscribe-button {
+  width: 210px;
+  height: 50px;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  border: none;
+  position: absolute;
+  left: 774px;
+}
